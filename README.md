@@ -1,10 +1,10 @@
-# replication-audit-saraeva-2016
-Replication audit of Saraeva (2016): transparency, reproducibility and open science assessment
+# replication-audit-saraeva-2026
+Replication audit of Saraeva (2026): transparency, reproducibility and open science assessment
 ## Описание проекта
 
 В данном репозитории представлены материалы репликационного аудита статьи:
 Сараева Н. М. «Эмпирическое изучение субъектности студентов: экопсихологический подход» (2016).
-Работа выполнена в рамках дисциплины «Планирование эмпирического и экспериментального исследования».
+Работа выполнена в рамках дисциплины «Планирование эмпирического и экспериментального исследования» в 2026 году.
 
 ## Содержимое репозитория
 
