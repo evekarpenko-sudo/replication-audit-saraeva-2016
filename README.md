@@ -1,4 +1,3 @@
-# replication-audit-saraeva-2026
 Replication audit of Saraeva (2026): transparency, reproducibility and open science assessment
 ## Описание проекта
 
